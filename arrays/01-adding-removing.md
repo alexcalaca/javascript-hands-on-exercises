@@ -1,3 +1,6 @@
+### Adding and removing
+---
+
 1. Create an array called students;
 2. Create an array with the numbers 1 to 5.
 3. Add "Alice" to the students array.
